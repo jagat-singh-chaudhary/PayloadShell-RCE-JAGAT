@@ -1,6 +1,6 @@
 # PayloadShell-RCE-JAGAT
 
-![RCE Shell Logo](https://github.com/jagat-singh-chaudhary/PayloadShell-RCE-JAGAT/blob/main/logo.png.png)
+![RCE Shell Logo](https://github.com/jagat-singh-chaudhary/PayloadShell-RCE-JAGAT/blob/main/logo.png)
 
 A comprehensive collection of Remote Code Execution (RCE) shell payloads tailored for penetration testing and security research.
 
