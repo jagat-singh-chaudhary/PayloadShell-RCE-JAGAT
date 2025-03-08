@@ -11,15 +11,12 @@ A comprehensive collection of Remote Code Execution (RCE) shell payloads tailore
 - [Usage](#usage)
 - [Payloads](#payloads)
 - [Disclaimer](#disclaimer)
-- [Contributing](#contributing)
-- [Maintainers](#maintainers)
 - [Author](#author)
 - [License](#license)
-- [Contact](#contact)
 
 ## Description
 
-Welcome to the RCE Shell Payloads repository – a curated compilation designed to empower security professionals, penetration testers, and developers in fortifying web applications against potential vulnerabilities associated with code execution.
+Welcome to the PayloadShell-RCE-JAGAT repository – a curated compilation designed to empower security professionals, penetration testers, and developers in fortifying web applications against potential vulnerabilities associated with code execution.
 
 **Disclaimer: Unauthorized use of these payloads is strictly prohibited. Use responsibly and in compliance with applicable laws and regulations.**
 
@@ -34,7 +31,7 @@ Welcome to the RCE Shell Payloads repository – a curated compilation designed 
 Feel free to incorporate and customize these payloads for legitimate security testing. Always prioritize proper authorization before initiating any system tests. To download a payload, employ the following example command:
 
 ```bash
-git clone https://github.com/shubham-rooter/RCE-Shell-Paylods.git
+https://github.com/jagat-singh-chaudhary/PayloadShell-RCE-JAGAT.git
 ```
 
 ## Payloads
@@ -69,33 +66,27 @@ Here are some of the RCE shell payloads included in this repository:
 
 These payloads are provided for educational purposes and ethical hacking. Please use them responsibly and do not violate any laws or policies. Always obtain proper authorization before testing on any system or website.
 
-## Contributing
 
-We welcome contributions that align with our project's goals. Please follow our [contribution guidelines](CONTRIBUTING.md) when submitting changes.
-
-## Maintainers
-
-This repository is maintained by:
-
-- [Shubham Rooter](https://github.com/shubham-rooter)
 
 ## Author
 
-- **Shubham Rooter**
-  - [GitHub](https://www.github.com/shubham-rooter)
-  - [Twitter](https://www.twitter.com/shubhamtiwari_r)
-  - [Instagram](https://www.instagram.com/shubham_rooter)
-  - [LinkedIn](https://www.linkedin.com/in/shubham-tiwari09/)
+- **Jagat Singh**
+  - [GitHub](https://github.com/jagat-singh-chaudhary)
+  - [LinkedIn](https://www.linkedin.com/in/jagat-singh-b824701b8/)
+
+
+## Disclaimer
+
+This repository is for educational purposes only. Use these techniques responsibly and only on systems you have explicit permission to test.
+
+## ☕ Buy Me a Coffee
+
+If you find our work helpful and would like to support us, consider buying us a coffee. Your support keeps us motivated and helps us create more awesome content. ❤️
+
+☕ **Support Us Here:** [https://buymeacoffee.com/jagatsingh](https://buymeacoffee.com/jagatsingh)
+
+Happy bug hunting!
 
 ## License
 
-Copyright © 2023, [Shubham Rooter](https://github.com/Shubham-Rooter). Released under the [MIT License](LICENSE).
-
-## Contact
-
-If you have any questions, feedback, or suggestions, feel free to contact us at [shubhamrooter@gmail.com]. We value your input.
-
-<div align="center">
-  <sub>Thank you for contributing to a safer digital environment. Happy Hunting!</sub>
-</div>
-Feel free to explore and use these payloads responsibly for penetration testing and security research purposes. Ensure you have proper authorization before testing any system.
+Copyright © 2025, [Jagat Singh](https://github.com/jagat-singh-chaudhary). Released under the [MIT License](LICENSE).
