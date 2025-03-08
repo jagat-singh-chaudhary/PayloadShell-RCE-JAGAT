@@ -10,8 +10,8 @@ A comprehensive collection of Remote Code Execution (RCE) shell payloads tailore
 - [Features](#features)
 - [Usage](#usage)
 - [Payloads](#payloads)
-- [Disclaimer](#disclaimer)
 - [Author](#author)
+- [Disclaimer](#disclaimer)
 - [License](#license)
 
 ## Description
