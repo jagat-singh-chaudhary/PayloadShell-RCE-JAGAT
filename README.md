@@ -16,7 +16,7 @@ A comprehensive collection of Remote Code Execution (RCE) shell payloads tailore
 
 ## Description
 
-Welcome to the PayloadShell-RCE-JAGAT repository – a curated compilation designed to empower security professionals, penetration testers, and developers in fortifying web applications against potential vulnerabilities associated with code execution.
+Welcome to the PayloadShell-RCE-JAGAT repository – a comprehensive and versatile Remote Code Execution (RCE) toolkit specifically designed for security professionals and ethical hackers. This repository hosts a diverse collection of RCE shell payloads, catering to various scenarios and needs in remote command execution.
 
 **Disclaimer: Unauthorized use of these payloads is strictly prohibited. Use responsibly and in compliance with applicable laws and regulations.**
 
