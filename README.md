@@ -1,4 +1,4 @@
-# RCE Shell Payloads
+# PayloadShell-RCE-JAGAT
 
 ![RCE Shell Logo](https://github.com/jagat-singh-chaudhary/PayloadShell-RCE-JAGAT/blob/main/logo.png.png)
 
