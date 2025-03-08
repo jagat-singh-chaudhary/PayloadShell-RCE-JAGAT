@@ -62,11 +62,6 @@ Here are some of the RCE shell payloads included in this repository:
 - [shell2.php4](shell2.php4)
 
 
-## Disclaimer
-
-These payloads are provided for educational purposes and ethical hacking. Please use them responsibly and do not violate any laws or policies. Always obtain proper authorization before testing on any system or website.
-
-
 
 ## Author
 
@@ -77,7 +72,7 @@ These payloads are provided for educational purposes and ethical hacking. Please
 
 ## Disclaimer
 
-This repository is for educational purposes only. Use these techniques responsibly and only on systems you have explicit permission to test.
+These payloads are provided for educational purposes and ethical hacking. Please use them responsibly and do not violate any laws or policies. Always obtain proper authorization before testing on any system or website.
 
 ## ☕ Buy Me a Coffee
 
